@@ -1,0 +1,11 @@
+{
+  "org": "pysal",
+  "repo": "spaghetti",
+  "versions": [
+    {
+      "commit": "9ae829b45c8aa15ddbf33c7a1fe574e3524dfbbb",
+      "tag": "",
+      "parsed_at": "2026-10-19T11:36:05.840073+00:00"
+    }
+  ]
+}
