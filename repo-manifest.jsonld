@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pysal/spaghetti/commit/9ae829b45c8aa15ddbf33c7a1fe574e3524dfbbb",
       "git:hexsha": "9ae829b45c8aa15ddbf33c7a1fe574e3524dfbbb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pysal/spaghetti/commit/83c92b5927a11e0cc4246b96d0e66986ab92ca7b",
